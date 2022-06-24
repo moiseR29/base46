@@ -1,5 +1,9 @@
 ## NvChad theme plugin
 
+>> MoiseR29 Section
+I dont use Packer as pluginManager, I refactor this repo for my problem, also add some changes :D, the rest is the same
+>> MoiseR29 Section
+
 - This plugin's a whole re-write of Norcalli's plugin.
  
 (Note: This theme plugin is supposed to be used along with [NvChad](https://github.com/NvChad/NvChad) only so watchout!)
